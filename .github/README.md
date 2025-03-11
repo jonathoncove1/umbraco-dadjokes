@@ -4,7 +4,7 @@
 [![NuGet](https://img.shields.io/nuget/vpre/Umbraco.Community.DadJokes?color=0273B3)](https://www.nuget.org/packages/Umbraco.Community.DadJokes)
 [![GitHub license](https://img.shields.io/github/license/jonathoncove1/umbraco-dadjokes?color=8AB803)](../LICENSE)
 
-TODO: describe your package
+Adds a header app to an umbraco site which generates dad jokes.
 
 <!--
 Including screenshots is a really good idea! 
@@ -20,12 +20,10 @@ Add the package to an existing Umbraco website (v15+) from nuget:
 
 `dotnet add package Umbraco.Community.DadJokes`
 
-TODO *provide any other instructions for someone using your package*
-
 ## Contributing
 
 Contributions to this package are most welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Acknowledgments
 
-TODO
+Joe Glombek, Kevin Jump, Matt Brailsford, and the Umbraco community.
