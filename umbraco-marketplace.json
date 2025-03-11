@@ -4,8 +4,8 @@
       "Name": "Jon",
       "ImageUrl": "https://github.com/jonathoncove1.png"
     },
-    "Category": "",
-    "Description": "",
+    "Category": "Editor Tools",
+    "Description": "Adds an image of a dad to the header, which when clicked, opens a modal containing a dad joke.",
     "LicenseTypes": [ "Free" ],
     "IssueTrackerUrl": "https://github.com/jonathoncove1/umbraco-dadjokes/issues",
     "PackageType": "Package",
