@@ -1,0 +1,14 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "AuthorDetails": {
+      "Name": "Jon",
+      "ImageUrl": "https://github.com/jonathoncove1.png"
+    },
+    "Category": "",
+    "Description": "",
+    "LicenseTypes": [ "Free" ],
+    "IssueTrackerUrl": "https://github.com/jonathoncove1/umbraco-dadjokes/issues",
+    "PackageType": "Package",
+    "Tags": [],
+    "Title": "Dad Jokes "
+  }
