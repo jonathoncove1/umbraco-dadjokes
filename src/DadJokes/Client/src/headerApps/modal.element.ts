@@ -25,12 +25,20 @@ export default class TimeHeaderModalElement extends UmbModalBaseElement {
     this.modalContext?.reject();
   }
 
+  #handleRefresh() {
+    this.connectedCallback();
+  }
+
   render() {
 
     return html`
             <uui-dialog-layout class="uui-text"
                 headline="Dad says:">
-                <p>${this.joke}</p> 
+                <p>${this.joke}</p>
+
+                 <uui-button slot="actions" id="close" label="Close"
+                    look='secondary'  color='default'
+                     @click="${this.#handleRefresh}">Refresh</uui-button>
 
                 <uui-button slot="actions" id="close" label="Close"
                     look='primary'  color='danger'

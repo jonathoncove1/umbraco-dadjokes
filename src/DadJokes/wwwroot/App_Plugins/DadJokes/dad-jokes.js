@@ -15,7 +15,7 @@ const e = [
     type: "modal",
     alias: "dadjoke.header.modal",
     name: "dadjoke header modal",
-    element: () => import("./modal.element-DnK99m2i.js")
+    element: () => import("./modal.element-D6znhh09.js")
   }
 ], a = [
   ...e
